@@ -23,7 +23,7 @@ public class MainJFrame extends javax.swing.JFrame {
         initComponents();
         product = new Product();
     }
-
+     //......Radhika Koushik.............
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
